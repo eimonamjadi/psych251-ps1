@@ -7,6 +7,9 @@ This is my first Quarto document.
 
 ```{r}
 summary(cars)
+
+
+This document was created for Psych 251 Problem Set 1.
 ---
 
 ## Quarto
