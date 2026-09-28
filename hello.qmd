@@ -1,5 +1,5 @@
 ---
-title: "Hello, other title"
+title: "Hello, conflicts resolved"
 format: html
 ---
 
