@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 *.html
+!docs/*.html
 .secrets
+.DS_Store
